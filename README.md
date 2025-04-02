@@ -1,4 +1,4 @@
-# 👋 Ola, esse e meu perfil no Github.
+# 👋 Ola, esse e meu perfil no Github. (Read Me em desenvolvimento)
 ## Meu nome e Felipe Ferrete
 
 ## Ferramentas e Tecnologias
