@@ -43,7 +43,7 @@
 </div>
 
 <picture align="center" >
-![Snake animation](https://github.com/FelipeFerrete/FelipeFerreete/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/FelipeFerrete/FelipeFerrete/blob/output/github-contribution-grid-snake.svg)
 </picture>
 
 ---
