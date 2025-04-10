@@ -44,9 +44,9 @@
 
 <picture align="center" >
 
-  ![Snake animation](https://github.com/FelipeFerrete/FelipeFerrete/blob/output/github-contribution-grid-snake.svg)
-</picture>
-
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipeFerrete/FelipeFerrete/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FelipeFerrete/FelipeFerrete/output/github-contribution-grid-snake-dark.svg">
+![Snake animation](https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake.svg)
 ---
 
 <!-- Parte inferior da página -->
