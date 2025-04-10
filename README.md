@@ -6,7 +6,7 @@
   
 ## <img src="https://raw.githubusercontent.com/FelipeFerrete/FelipeFerrete/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Felipe Ferrete
  👩🏻‍💻 Sou um desenvolvedor fullstack, apaixonado por tecnologia.<br>
- ⚡ Graduando ADS na FIAP
+ ⚡ Graduando ADS na FIAP<br>
  ⚡ EM Tecnico no SENAC<br>
 
 </div>
