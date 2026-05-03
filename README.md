@@ -1,84 +1,54 @@
-<!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
+# Felipe Ferrete
 
-## 👋 Olá, eu sou o Felipe Ferrete
-
-Sou **Desenvolvedor Backend em formação**, com foco em **Python e construção de APIs orientadas a regras de negócio**.  
-Gosto de transformar problemas reais em soluções técnicas simples, bem estruturadas e escaláveis.
-
-Atualmente curso **Análise e Desenvolvimento de Sistemas na FIAP** e desenvolvo projetos próprios e acadêmicos com visão de produto, dados e impacto social.
+**ADS @ FIAP** · Content Moderator → Dev transition · São Paulo, BR
 
 ---
 
-## 🚀 Foco atual
+## Stack
 
-- Backend com **Python (FastAPI / Flask)**
-- Desenvolvimento de **APIs REST**
-- Autenticação, regras de negócio e dados
-- Integração entre sistemas e serviços
-- Projetos voltados a **startups e impacto real**
-
----
-
-## 🧠 Tecnologias & Conceitos
-
-**Backend**
-- Python (FastAPI, Flask)
-- APIs REST
-- Autenticação (JWT)
-- Organização em camadas
-- Validação e tratamento de dados
-
-**Banco de Dados**
-- SQL (MySQL, Oracle)
-- Modelagem de dados
-- SQLAlchemy
-
-**Frontend (apoio)**
-- React
-- JavaScript / TypeScript
-
-**Ferramentas**
-- Git & GitHub
-- Docker (básico)
-- Metodologias Ágeis (Scrum)
-- Figma / Notion
+| Camada | Tecnologias |
+|---|---|
+| **Backend** | Python · FastAPI · .NET 10 · PostgreSQL |
+| **Automação** | n8n · Evolution API · WhatsApp bots |
+| **Frontend** | React · TypeScript · Tailwind CSS · Vite |
+| **IA/ML** | Gemini · Groq · Scikit-learn · Jupyter |
+| **Infra** | Git · REST APIs · Docker · Google Sheets  |
 
 ---
 
-## 📌 Projetos em destaque
+## O que estou construindo
 
-### 🗺️ GeoObras  
-Plataforma de análise e georreferenciamento de obras públicas com dados abertos.  
-Backend responsável por pipeline ETL, cálculo de indicadores e API de consumo.
-
-> Stack: Python, FastAPI, dados públicos, geoprocessamento
-
-### 💰 Traevo *(em desenvolvimento)*  
-Sistema backend para controle e análise financeira, com autenticação e regras de negócio.
-
-> Stack: Python, FastAPI, SQL, JWT
-
-*(Repositórios fixados abaixo 👇)*
+- **[Clyvo Vet](https://github.com/KURA-Clyvo/backend-clinica-dotnet)** — Backend clínico em .NET 10 para gestão veterinária (Challenge FIAP 2026)
+- **[Traevo](https://github.com/gestaoFinanceria/backend_traevo)** — App de finanças pessoais com backend Python
+- **[Consulta Certa](https://github.com/consulta-certa/Artificial-Intelligence)** — ML para redução de absenteísmo em consultas médicas (Hospital das Clínicas)
+- **[GeoObras](https://github.com/GeoObras-Hackathon/GeoObras-Backend)** — Monitoramento de obras públicas com geolocalização
 
 ---
 
-## 📊 GitHub Stats
+## Como eu codifico
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FelipeFerrete&theme=react&hide_border=false"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFerrete&theme=react&layout=compact"/>
-</div>
+Aprendo construindo produtos reais.  
+Cada repositório aqui saiu de um problema concreto — um cliente, uma hackathon, um challenge acadêmico.
 
----
-
-## 📬 Vamos conversar
-
-Estou buscando oportunidades como **Desenvolvedor Backend Júnior**, especialmente em startups ou times pequenos, onde eu possa aprender rápido e contribuir de forma prática.
-
-- 💼 LinkedIn: https://www.linkedin.com/in/felipe-ferrete-ab63a318a/
-- 📧 Email: felipeferretelemes@gmail.com
+**Processo:**
+1. Entendo o problema antes de abrir o editor
+2. Projeto a estrutura de dados primeiro
+3. Itero rápido, quebro, conserto, entendo o porquê
+4. Documento o que importa, ignoro o que não agrega
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
+## O que estou aprendendo agora
+
+- Arquitetura de APIs REST com .NET e boas práticas de domínio
+- Deploy e CI/CD com projetos reais
+- Integração de LLMs em produtos (Gemini, Groq via n8n)
+- Engenharia de ML aplicada
+
+---
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/felipe-ferrete-ab63a318a/) · [Gmail](mailto:felipeferretelemes@email.com)
+
+> *Buscando estágio ou posição júnior em desenvolvimento backend/fullstack.*
